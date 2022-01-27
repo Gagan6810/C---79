@@ -1,0 +1,19 @@
+#submit{
+    background-color: navy ;
+    margin-top: 25px ;
+    margin-bottom: 25px;
+    color:aqua;
+}
+#sorty{
+    background-color: navy ;
+    margin-top: 25px ;
+    color:aqua;
+    margin-bottom: 25px;
+}
+input{
+    margin: 10px;
+}
+body{
+    text-align: center;
+    background-color:aqua;
+}
